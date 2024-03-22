@@ -1,6 +1,6 @@
-import 'package:assets/models/contact_model.dart';
-import 'package:assets/utils/colors/app_colors.dart';
-import 'package:assets/utils/styles/app_text_style.dart';
+import 'package:contact/models/contact_model.dart';
+import 'package:contact/utils/colors/app_colors.dart';
+import 'package:contact/utils/styles/app_text_style.dart';
 import 'package:flutter/material.dart';
 
 

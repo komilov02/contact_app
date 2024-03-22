@@ -1,4 +1,4 @@
-import 'package:assets/models/contact_model.dart';
+import 'package:contact/models/contact_model.dart';
 
 
 List<ContactModel> contacts = [

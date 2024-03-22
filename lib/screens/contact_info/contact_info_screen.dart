@@ -1,11 +1,11 @@
-import 'package:assets/models/contact_model.dart';
-import 'package:assets/models/repository.dart';
-import 'package:assets/screens/add_contact/widgets/universal_textfiled.dart';
-import 'package:assets/screens/contact/contact_screen.dart';
-import 'package:assets/screens/widgets/global_app_bar.dart';
-import 'package:assets/utils/colors/app_colors.dart';
-import 'package:assets/utils/extensions/project_extensions.dart';
-import 'package:assets/utils/styles/app_text_style.dart';
+import 'package:contact/models/contact_model.dart';
+import 'package:contact/models/repository.dart';
+import 'package:contact/screens/add_contact/widgets/universal_textfiled.dart';
+import 'package:contact/screens/contact/contact_screen.dart';
+import 'package:contact/screens/widgets/global_app_bar.dart';
+import 'package:contact/utils/colors/app_colors.dart';
+import 'package:contact/utils/extensions/project_extensions.dart';
+import 'package:contact/utils/styles/app_text_style.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 

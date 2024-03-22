@@ -1,4 +1,4 @@
-import 'package:assets/screens/contact/contact_screen.dart';
+import 'package:contact/screens/contact/contact_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

@@ -1,6 +1,6 @@
-import 'package:assets/utils/colors/app_colors.dart';
-import 'package:assets/utils/extensions/project_extensions.dart';
-import 'package:assets/utils/styles/app_text_style.dart';
+import 'package:contact/utils/colors/app_colors.dart';
+import 'package:contact/utils/extensions/project_extensions.dart';
+import 'package:contact/utils/styles/app_text_style.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
